@@ -1,0 +1,14 @@
+D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.AssemblyInfoInputs.cache
+D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.AssemblyInfo.cs
+D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.csproj.CoreCompileInputs.cache
+D:\FormsApp\bin\Debug\net9.0-windows\FormsApp.exe
+D:\FormsApp\bin\Debug\net9.0-windows\FormsApp.deps.json
+D:\FormsApp\bin\Debug\net9.0-windows\FormsApp.runtimeconfig.json
+D:\FormsApp\bin\Debug\net9.0-windows\FormsApp.dll
+D:\FormsApp\bin\Debug\net9.0-windows\FormsApp.pdb
+D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.dll
+D:\FormsApp\obj\Debug\net9.0-windows\refint\FormsApp.dll
+D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.pdb
+D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.genruntimeconfig.cache
+D:\FormsApp\obj\Debug\net9.0-windows\ref\FormsApp.dll
