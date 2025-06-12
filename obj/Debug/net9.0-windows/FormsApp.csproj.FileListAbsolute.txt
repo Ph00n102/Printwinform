@@ -12,3 +12,4 @@ D:\FormsApp\obj\Debug\net9.0-windows\refint\FormsApp.dll
 D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.pdb
 D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.genruntimeconfig.cache
 D:\FormsApp\obj\Debug\net9.0-windows\ref\FormsApp.dll
+D:\FormsApp\obj\Debug\net9.0-windows\FormsApp.sourcelink.json
